@@ -22,7 +22,7 @@ The following algorithms are supported:
 ## :floppy_disk: Install
 
 ```bash
-go install github.com/abecodes/tkn@latest
+go install github.com/abecodes/tkn
 ```
 
 ## :computer: Example
